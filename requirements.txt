@@ -1,5 +1,5 @@
 Python version 3.11.11
-streamlit (library)
-pandas (library)
-plotly (run pip install in the terminal) (library)
-matplotlib (run pip install matplotlib in the terminal) (library)
+Pandas
+Matplotlib (pip install with terminal)
+Plotly (pip install with terminal)
+Streamlit
