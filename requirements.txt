@@ -1,5 +1,4 @@
-Python version 3.11.11
 Pandas
-Matplotlib (pip install with terminal)
-Plotly (pip install with terminal)
+Matplotlib
+Plotly
 Streamlit
